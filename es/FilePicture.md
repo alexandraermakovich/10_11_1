@@ -43,8 +43,6 @@ Este texto que aparece aquí es *en realidad* escrito en Markdown! Para familiar
 
 ### falso
 
-## group
-
 Dillinger utiliza varios proyectos de código abierto para funcionar correctamente:
 
 - [AngularJS] - ¡HTML mejorado para aplicaciones web!
