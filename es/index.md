@@ -27,7 +27,7 @@ Los propietarios de sitios no deberían tener que ser gurús del rendimiento par
 
 Core Web Vitals es el subconjunto de Web Vitals que se aplica a todas las páginas web, todos los propietarios del sitio deben medirlo y aparecerán en todas las herramientas de Google. Cada uno de los Core Web Vitals representa una faceta distinta de la experiencia del usuario, se puede medir [en el campo](/user-centric-performance-metrics/#how-metrics-are-measured) y refleja la experiencia del mundo real de un resultado crítico [centrado en el usuario](/user-centric-performance-metrics/#how-metrics-are-measured) .
 
-The metrics that make up Core Web Vitals will [evolve](#evolving-web-vitals) over time. The current set for 2020 focuses on three aspects of the user experience—*loading*, *interactivity*, and *visual stability*—and includes the following metrics (and their respective thresholds):
+The metrics that make up Core Web Vitals will <em>evolve</em> over time. The current set for 2020 focuses on three aspects of the user experience—*loading*, *interactivity*, and *visual stability*—and includes the following metrics (and their respective thresholds):
 
 <div class="w-stack w-stack--center w-stack--md">
 <img src="lcp_ux.svg" width="400px" height="350px" alt="Las recomendaciones de umbral de pintura Contentful más grandes"><img src="fid_ux.svg" width="400px" height="350px" alt="Recomendaciones de umbral de retardo de primera entrada"><img src="cls_ux.svg" width="400px" height="350px" alt="Recomendaciones de umbral de cambio de diseño acumulativo">
