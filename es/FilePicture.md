@@ -24,8 +24,6 @@ Dillinger es un editor de Markdown HTML5 con tecnología AngularJS, habilitado p
 
 # cierto
 
-# comida
-
 - Importe un archivo HTML y observe cómo se convierte mágicamente a Markdown
 - Arrastra y suelta imágenes (requiere que tu cuenta de Dropbox esté vinculada)
 
